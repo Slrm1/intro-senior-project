@@ -1,0 +1,6 @@
+print("Senior Project Developer Profile")
+print()
+print("Name: Selorm Kalitsi")
+print("Major: Computer Science")
+print("Technology Interest: Artificial Intelligence and Natural Language Processing")
+print("Skill Goal: Full-Stack Web Development")
